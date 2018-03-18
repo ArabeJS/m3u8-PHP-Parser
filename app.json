@@ -3,5 +3,6 @@
   "description": "m3u8 PHP Parser",
   "repository": "https://github.com/ArabeJS/m3u8-PHP-Parser",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["PHP", "php"]
+  "keywords": ["PHP", "php"],
+  "shorthand": "heroku/php"
 }
