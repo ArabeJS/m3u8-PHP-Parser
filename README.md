@@ -1,5 +1,7 @@
 # m3u8 / m3u PHP Parser
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 m3u PHP Parser.m3u8 parser to json
 
 ## How to use it? (With or without callback)
